@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "polar-ascii"
+version = "1.0.0"
+description = "Graphing polar equations in ASCII."
+authors = ["Toby Penner <tobypenner01@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
