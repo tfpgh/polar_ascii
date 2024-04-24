@@ -6,5 +6,30 @@ I made this project over the course of about an hour to learn more about polar f
 
 
 ## Examples
+`heart.py`
+![Heart Example](demos/heart.gif)
 `spiral_medium.py`
-[![asciicast](https://asciinema.org/a/vqLvMc94a1P6GiDsMp6Vnc4aX.svg)](https://asciinema.org/a/vqLvMc94a1P6GiDsMp6Vnc4aX)
+![Spiral Medium Example](demos/spiral_medium.gif)
+`flower.py`
+![Flower Example](demos/flower.gif)
+
+## Usage
+
+To graph a polar function, pass a python file defining the variable `domain` and function `r` into `polar_ascii.py`
+
+Example function file (`examples/spiral_medium.py`):
+```python
+import math
+
+domain: tuple[float, float] = (0.0, 5 * math.pi)
+
+
+def r(theta: float) -> float:
+    return theta
+```
+
+Call it with:
+```zsh
+python3 polar_ascii.py examples/spiral_medium.py
+```
+(or the path to your function file)
