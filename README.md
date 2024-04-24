@@ -8,13 +8,16 @@ I made this project over the course of about an hour to learn more about polar f
 ## Examples
 `heart.py`
 <br>
-<img alt="Heart Example" src="demos/heart.gif" width="300px">
+<img alt="Heart Example" src="demos/heart.gif" width="500px">
 <br>
 `spiral_medium.py`
 <br>
-<img alt="Spiral Medium Example" src="demos/spiral_medium.gif" width="300px">
+<img alt="Spiral Medium Example" src="demos/spiral_medium.gif" width="500px">
+<br>
 `flower.py`
-<img alt="Flower Example" src="demos/flower.gif" width="300px">
+<br>
+<img alt="Flower Example" src="demos/flower.gif" width="500px">
+<br>
 
 ## Usage
 
