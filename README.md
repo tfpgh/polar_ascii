@@ -7,11 +7,14 @@ I made this project over the course of about an hour to learn more about polar f
 
 ## Examples
 `heart.py`
-![Heart Example](demos/heart.gif)
+<br>
+<img alt="Heart Example" src="demos/heart.gif" width="300px">
+<br>
 `spiral_medium.py`
-![Spiral Medium Example](demos/spiral_medium.gif)
+<br>
+<img alt="Spiral Medium Example" src="demos/spiral_medium.gif" width="300px">
 `flower.py`
-![Flower Example](demos/flower.gif)
+<img alt="Flower Example" src="demos/flower.gif" width="300px">
 
 ## Usage
 
